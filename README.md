@@ -1,4 +1,4 @@
-## Dear Channels Team, This is the instruction file for running the project. I hope your experience will be smooth and bug free. and please not you need .net 9 to run the app ,  i also added swagger ui to make the testing easier for you
+## Dear Channels Team, This is the instruction file for running the project. I hope your experience will be smooth and bug free. and please note you need .net 9 to run the app ,  i also added swagger ui to make the testing smoother for you
 
 --> http://localhost:5029/swagger/index.html
 
